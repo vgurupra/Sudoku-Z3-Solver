@@ -1,4 +1,4 @@
-# Sudoku-Z3-Solver
+# Sudoku-Z3 Solver
 
 ### Installation of Z3 and verification of installation
 ```
